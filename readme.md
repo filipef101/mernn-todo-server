@@ -1,6 +1,6 @@
 # MERRN Todo app server
 
-This run a [M]ongo and [E]xpress JS server
+This runs a [M]ongo and [E]xpress JS server
 
 ## Functionalities
 
