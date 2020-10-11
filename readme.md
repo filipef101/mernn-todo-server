@@ -5,7 +5,9 @@ This runs a [M]ongo and [E]xpress JS server
 ## Functionalities
 
 Simple Authentication
+
 Create / Delete | **Projects**
+
 Create / Edit / Finish Delete | **Project Tasks**
 
 
