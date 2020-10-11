@@ -1,5 +1,5 @@
 {
-  "name": "merrn-todo-server",
+  "name": "mernn-todo-server",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "npx nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["mongose", "mongo", "todo", "mern", "merrn"],
+  "keywords": ["mongose", "mongo", "todo", "mern", "mernn"],
   "author": "filipef101@sapo.pt",
   "license": "AGPL-3.0",
   "dependencies": {
